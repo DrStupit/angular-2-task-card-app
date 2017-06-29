@@ -1,1 +1,2 @@
-# angular-2-task-card-app
+# Angular2Skeleton
+Skeleton for Angular2 &amp; Typescript
